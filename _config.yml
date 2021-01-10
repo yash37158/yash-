@@ -13,5 +13,3 @@ sass:
   sass_dir: _sass
 
 icon: ./assets/img/icon.jpg
-
-theme: jekyll-theme-cayman
